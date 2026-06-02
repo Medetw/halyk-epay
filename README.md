@@ -7,10 +7,6 @@ Async Python SDK for **Halyk Bank ePay** (Kazakhstan) — hosted page, cryptogra
 [![Python](https://img.shields.io/pypi/pyversions/halyk-epay.svg)](https://pypi.org/project/halyk-epay/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-> 🇰🇿 [Перейти к русской версии ↓](#русская-версия)
-
----
-
 ## Why
 
 Every Kazakhstani marketplace, e-commerce shop, and fintech app eventually integrates Halyk ePay — and ends up with the same ad-hoc `httpx.post(...)` blobs scattered across the codebase. This library extracts the well-trodden pattern into a small, well-tested package.
